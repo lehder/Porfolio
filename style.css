@@ -235,3 +235,9 @@ footer {
     color: #ccc;
     border-bottom: 3px solid #af20d3;
 }
+.titulo-final {
+    text-align: center;
+    font-size: 24px;
+    margin: 20px 0 0 0;
+    color: #9e9797;
+}
